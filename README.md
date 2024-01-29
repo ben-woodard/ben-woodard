@@ -29,4 +29,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" width="40"/>
     </td>
   </tr>
+  <tr>
+    <td>IDEs & VC</td>
+    <td></td>
+  </tr>
 </table>
