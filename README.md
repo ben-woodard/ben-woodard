@@ -16,7 +16,7 @@
   <tr>
     <td>Languages</td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
     </td>
   </tr>
 </table>
