@@ -1,3 +1,3 @@
 # Ben Woodard
 
-**`Full-Stack Software Developer (Developer/Ski Bum/Outdoor Enthusiast)`**
+**`Full-Stack Software Developer (Developer/Beer Nerd/Outdoor Enthusiast)`**
