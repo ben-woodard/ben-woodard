@@ -31,6 +31,9 @@
   </tr>
   <tr>
     <td>IDEs & VC</td>
-    <td></td>
+    <td>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="40" width="40"/>
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" height="40" width="40"/>
+    </td>
   </tr>
 </table>
