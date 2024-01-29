@@ -27,7 +27,6 @@
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" width="40"/>
-
     </td>
   </tr>
 </table>
