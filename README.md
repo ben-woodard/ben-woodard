@@ -5,7 +5,7 @@
 -  🧠 2024 Learning Goals: Developing my skills in Java, Spring Boot, React and AWS.
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-woodard&theme=tokyonight&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-woodard&theme=dark&langs_count=10"/>
 
 ## Contact Me
 
