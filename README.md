@@ -2,7 +2,7 @@
 
 **`Full-Stack Software Developer (Developer/Outdoor Enthusiast)`**
 
--  🧠 2024 Learning Goals: Developing my skills in Spring Boot, Hibernate, React and AWS.
+-  🧠 2024 Learning Goals: Developing my skills in Spring Boot, Angular, React and AWS.
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben-woodard&theme=dark&langs_count=10"/>
@@ -20,13 +20,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="40" width="40"/>
     </td>
   </tr>
   <tr>
     <td>Frameworks</td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  height="40" width="40"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="40" width="40"/>
     </td>
   </tr>
   <tr>
